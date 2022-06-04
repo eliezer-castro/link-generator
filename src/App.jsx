@@ -53,6 +53,8 @@ function App() {
     // }
   }
 
+  console.log(link)
+
   function copyText() {
     console.log(link)
     const text = link;
